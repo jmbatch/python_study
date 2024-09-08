@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 # List Comprehension 
+# Reference: https://www.geeksforgeeks.org/python-list-comprehension/
 
 
 # Syntax: newList = [ expression(element) for element in oldList if condition ] 
